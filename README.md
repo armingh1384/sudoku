@@ -45,15 +45,16 @@ Here is the page when you enterd your valid name (name should not be frequent!)
 ## Leaderboard
 ![image](https://github.com/user-attachments/assets/b6e7475b-c680-41ad-a652-97b78c996804)
 
-#rules 
+## rules 
 We have 3 levels of games according to our time remaining.
 5 mins 3mins 2mins
 
 You can just have 5 mistakes...
 in order to input your number in the board you should pass the rules of sudoku(numbers shouldnt be duplicate)
-#pause menu
+## pause menu
+You can paues the game with ESC during the game either in the game or in pause menu you can save the game with 'S' or 's' and quit with 'q or 'Q'
 ![image](https://github.com/user-attachments/assets/6b70c2b0-45a2-4d32-9363-2e8b0971d136)
-#game board
+## game board
 ![image](https://github.com/user-attachments/assets/276059b4-376c-4038-b756-1b62e096d89b)
 
 
